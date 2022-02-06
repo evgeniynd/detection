@@ -1,0 +1,1 @@
+c:\Python\python.exe d:\PROGRAMING\Projects\real-time-object-detection\detection.py
